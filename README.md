@@ -1,4 +1,4 @@
-# Data-Science
+# Data-Science 📊🚀
 
 Data science encompasses preparing data for analysis, including cleansing, aggregating, and manipulating the data to perform advanced data analysis. Analytic applications and data scientists can then review the results to uncover patterns and enable business leaders to draw informed insights.
 
